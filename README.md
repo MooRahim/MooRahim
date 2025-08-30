@@ -29,11 +29,10 @@ Bridging legal expertise, economics, and analytics to solve real problems.
 | Project | Domain | Stack | One-liner |
 |---|---|---|---|
 | **Data Jobs Market 2023** | Job Market | Excel/GS, Power Query, Power Pivot | Found that U.S. Data Analysts earn ~$90K median; over 5,800 postings; Indeed leads as hiring platform. |
-| **Legal Ops Tracker** | Legal Operations | Excel, Power BI | Built a matter-tracking dashboard to monitor caseloads and lawyer performance. |
 ---
 
 ### 🗂️ Case Studies
-- **Data Jobs Salaries & Skills Demand (2023)** — Analyzed 10k+ job posts to uncover salary trends, high-demand roles, and in-demand skills → insights guide career planning.  
+- **Data Jobs Salaries & Skills Demand (2023)** — Analyzed 32k+ job posts to uncover salary trends, high-demand roles, and in-demand skills → insights guide career planning.  
 - **Legal Ops Tracker** — Designed dashboards for law firms → helped visualize workload & improve decision-making.  
 
 ---
@@ -46,7 +45,6 @@ Bridging legal expertise, economics, and analytics to solve real problems.
 
 ### 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamedabdelrahimsaleh)  
-- 📧 [Mohamedrahimsaleh@gmail.com](mailto:Mohamedrahimsaleh@gmail.com)
+- 📧 [E-mail](mailto:Mohamedrahimsaleh@gmail.com)
   
 - ⚡ Fun fact: I love storytelling with dashboards; I see them as “court arguments” where visuals are my evidence.
--->
