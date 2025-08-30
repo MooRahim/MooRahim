@@ -28,8 +28,8 @@ Bridging legal expertise, economics, and analytics to solve real problems.
 
 | Project | Domain | Stack | One-liner |
 |---|---|---|---|
-| **Data Jobs Market 2023** | Job Market | Excel/GS, Power Query | Found that U.S. Data Analysts earn ~$90K median; over 5,800 postings; Indeed leads as hiring platform. |
-
+| **Data Jobs Market 2023** | Job Market | Excel/GS, Power Query, Power Pivot | Found that U.S. Data Analysts earn ~$90K median; over 5,800 postings; Indeed leads as hiring platform. |
+| **Legal Ops Tracker** | Legal Operations | Excel, Power BI | Built a matter-tracking dashboard to monitor caseloads and lawyer performance. |
 ---
 
 ### 🗂️ Case Studies
